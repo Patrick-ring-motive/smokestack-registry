@@ -1,6 +1,6 @@
 {
-  "hostMap":{
-    "https://import.smokestack.workers.dev":"smokestack-hello-world"
+  "hostMap": {
+    "https://import.smokestack.workers.dev": "smokestack-hello-world"
   },
-  "hostMatch":{}
+  "hostMatch": {}
 }
